@@ -1,0 +1,6 @@
+Sample Body for postman with filters name   
+{
+    "search_filter":{
+        "pet_type":true
+    }
+}
